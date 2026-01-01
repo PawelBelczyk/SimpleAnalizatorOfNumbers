@@ -1,0 +1,2 @@
+# SimpleAnalizatorOfNumbers
+Prosty analizator liczb 
